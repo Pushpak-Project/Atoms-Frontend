@@ -1,0 +1,24 @@
+.home {
+    text-align: center;
+    padding: 50px;
+}
+
+.services {
+    margin-top: 20px;
+}
+
+.service-link {
+    display: inline-block;
+    margin: 10px;
+    padding: 15px 30px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.service-link:hover {
+    background-color: #0056b3;
+}
